@@ -8,7 +8,7 @@ This repository contains projects done as part of CS6600 Computer Architecture C
 - [View detailed report](CacheSimulator/Report.pdf)
 
 ## 2. Branch Predictor
-- A generic branch predictor(in C++), to understand the behaviour of the actual branch predictors which are used in actual hardware.
+- A generic branch predictor to understand the behaviour of the actual branch predictors which are used in actual hardware.
 - [View detailed report](BranchPredictor/Report.pdf)
 
 ## 3. Dynamic Scheduling
