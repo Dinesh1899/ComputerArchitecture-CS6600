@@ -1,0 +1,7 @@
+# Exclude VS Code files
+.vscode/
+logs/
+build/
+objects/*.o
+sim_cache
+cache_sim
